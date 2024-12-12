@@ -2,6 +2,9 @@
 
 Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
+Prerequisite
+Node.js: Ensure Node.js version 20 or later is installed on your machine.
+
 ## Setup
 
 Make sure to install dependencies:
